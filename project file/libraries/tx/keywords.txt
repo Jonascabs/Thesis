@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TX_SEND	KEYWORD1	tx
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+tx_send_RTS	KEYWORD2
+tx_send_CTS	KEYWORD2
+tx_send_Packet	KEYWORD2
+tx_send_Modbus	KEYWORD2
+tx_send_PacketAck	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

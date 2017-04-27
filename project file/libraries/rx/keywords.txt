@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RX_REC	KEYWORD1	rx
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+rx_rec_RTS	KEYWORD2
+rx_rec_CTS	KEYWORD2
+rx_rec_Packet	KEYWORD2
+rx_rec_Modbus	KEYWORD2
+rx_rec_PacketAck	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

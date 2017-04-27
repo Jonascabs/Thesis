@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PROTOCOL_TIMER	KEYWORD1	PROTOCOL_TIMER
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+rx_cts_timer	KEYWORD2
+rx_rts_timer	KEYWORD2
+rx_packet_timer	KEYWORD2
+rx_cts_reset	KEYWORD2
+rx_rts_reset	KEYWORD2
+rx_packet_ack_timer	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
